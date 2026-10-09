@@ -1,0 +1,234 @@
+# Conditional Gateway Registry — THE NINTH FOLD
+# Imported key coverage from ONE FRAME LATE registry; all gateways explicitly statused.
+# A PROVEN research check is not Rive implementation proof. Source: project GitHub state.
+registry:
+  project_classification:
+    status: PROVEN
+    note: "SECOND_INDEPENDENT_JUDGED_CREATIVE_CHALLENGE"
+  baseline_reconciliation:
+    status: PROVEN
+    note: "Central 0.1.59 observed/pinned at ec662e0dd35b4fec7e5c38b397a60c68973bd14b; drift recheck at major promotion"
+  external_rules_refresh:
+    status: ACTIVE
+  qualify:
+    status: PROVEN
+    note: "Challenge eligibility researched; independent deliverable and user-controlled final submission required"
+  decide:
+    status: ACTIVE
+  design:
+    status: ACTIVE
+  deliver:
+    status: BLOCKED
+  audit:
+    status: BLOCKED
+  expand:
+    status: BLOCKED
+  rubric:
+    status: PROVEN
+    note: "Official rubric captured in six-model synthesis from ONE FRAME LATE"
+  pain:
+    status: ACTIVE
+  problem:
+    status: ACTIVE
+  negative_event:
+    status: ACTIVE
+  differentiator:
+    status: ACTIVE
+  execution:
+    status: ACTIVE
+    note: "Technical kill spike authorized as bounded work; implementation NOT STARTED"
+  live_depth:
+    status: BLOCKED
+  evidence:
+    status: ACTIVE
+  story:
+    status: BLOCKED
+  demo:
+    status: BLOCKED
+  q_and_a:
+    status: BLOCKED
+  winning_intelligence_v2:
+    status: ACTIVE
+  contrastive_signal:
+    status: ACTIVE
+  ai_commodity_test:
+    status: ACTIVE
+  demand_reality:
+    status: ACTIVE
+  founder_problem_fit:
+    status: N/A
+    note: "N/A no venture/founder thesis in a creative challenge"
+  creative_divergence:
+    status: PROVEN
+    note: "Alternative concepts compared upstream; selected THE_NINTH_FOLD conditional"
+  multi_llm:
+    status: PROVEN
+    note: "Five external reviews + GPT central synthesis completed upstream, DeepSeek auxiliary; research only"
+  competitive_novelty_kill:
+    status: ACTIVE
+  naming_collision:
+    status: ACTIVE
+  concept_direction:
+    status: ACTIVE
+    note: "Paper fortune teller spatial recursion selected as candidate, Concept Lock BLOCKED"
+  concept_lock:
+    status: BLOCKED
+  technical_reality:
+    status: ACTIVE
+    note: "90–180 minute Rive fold/choice-binding/nested-causality kill spike NOT EXECUTED yet"
+  rive_account_auth:
+    status: BLOCKED
+  rive_external_target:
+    status: BLOCKED
+    note: "Distinct Rive file/project required, first project's ID 2632594 PROTECTED"
+  rive_external_file:
+    status: BLOCKED
+    note: "Not created"
+  rive_editor_structure:
+    status: BLOCKED
+    note: "Not created; no Rive Editor proof yet"
+  rive_post_push_integrity:
+    status: BLOCKED
+    note: "Nothing pushed"
+  rive_editor_behavior:
+    status: BLOCKED
+    note: "Not created; no Editor behavior proof yet"
+  rive_cli:
+    status: BLOCKED
+    note: "Rive CLI 1.5.1 exists in other project's Codespace, not tested here"
+  state_machine:
+    status: BLOCKED
+    note: "NOT IMPLEMENTED for this project"
+  data_binding:
+    status: BLOCKED
+    note: "Choice-to-miniature mark not implemented"
+  shadow_rig:
+    status: N/A
+    note: "N/A unique folded paper rig, not a puppet or shadow rig"
+  gpu_canvas:
+    status: BLOCKED
+    note: "Conditional after native fold behavior; NOT IMPLEMENTED"
+  literal_frame_latch:
+    status: N/A
+    note: "N/A no true previous-frame latch is required by this design"
+  real_reset_recovery:
+    status: BLOCKED
+    note: "Planned only, not implemented"
+  target_web_runtime:
+    status: BLOCKED
+    note: "No playable Web URL; not verified"
+  truth_boundary:
+    status: PROVEN
+  negative_path:
+    status: ACTIVE
+  evidence_integrity:
+    status: ACTIVE
+  runtime_commit_binding:
+    status: BLOCKED
+  deterministic_demo:
+    status: ACTIVE
+  judge_performance_assurance:
+    status: ACTIVE
+  first_five_second_comprehension:
+    status: ACTIVE
+  submission_integrity:
+    status: ACTIVE
+  submission_execution_assurance:
+    status: ACTIVE
+    note: "Deadline 2026-10-12 23:59 PDT; public/social/final Contra actions human protected"
+  engineering_quality:
+    status: BLOCKED
+  product_reality_v1_5:
+    status: ACTIVE
+  first_live_slice:
+    status: BLOCKED
+  live_core_loop:
+    status: BLOCKED
+    note: "Not live"
+  load_bearing_integration:
+    status: BLOCKED
+    note: "Must be native Rive choice-to-mark and inner-to-outer control"
+  real_consequence:
+    status: BLOCKED
+    note: "Must show meaningful selected variation and outer fold altered by nested input"
+  failure_recovery:
+    status: BLOCKED
+  real_user_surface:
+    status: BLOCKED
+  external_user_operator_evidence:
+    status: BLOCKED
+  time_to_first_value:
+    status: BLOCKED
+  operational_economics:
+    status: N/A
+    note: "N/A no paid transactional product loop"
+  shared_product_core:
+    status: ACTIVE
+  reality_ledger:
+    status: ACTIVE
+  observability_receipts:
+    status: ACTIVE
+  judge_self_serve:
+    status: BLOCKED
+  setup_reproducibility:
+    status: ACTIVE
+  clean_room_dependency_failure:
+    status: BLOCKED
+  post_vertical_slice_depth_gap_review:
+    status: BLOCKED
+    note: "Required after first live slice, not before"
+  ossium:
+    status: ACTIVE
+  reference_intelligence:
+    status: ACTIVE
+  x402:
+    status: N/A
+    note: "N/A no payment requirements"
+  nanopayments:
+    status: N/A
+    note: "N/A no payments"
+  wallets:
+    status: N/A
+    note: "N/A no wallets"
+  contracts:
+    status: N/A
+    note: "N/A no smart contracts"
+  app_kit:
+    status: N/A
+    note: "N/A no app-kit dependence"
+  live_gateway:
+    status: N/A
+    note: "N/A no transactional live gateway. Never claim one."
+  final_canonical_assurance:
+    status: BLOCKED
+  current_handover:
+    status: PROVEN
+  post_mortem:
+    status: BLOCKED
+  rive_paper_fold:
+    status: BLOCKED
+    note: "Design-specific technical gate; no implementation or runtime proof yet."
+  selected_mark_persistence:
+    status: BLOCKED
+    note: "Design-specific technical gate; no implementation or runtime proof yet."
+  nested_to_outer_causality:
+    status: BLOCKED
+    note: "Design-specific technical gate; no implementation or runtime proof yet."
+  eighth_ninth_spatial_contrast:
+    status: BLOCKED
+    note: "Design-specific technical gate; no implementation or runtime proof yet."
+  fold_2_5d_quality:
+    status: BLOCKED
+    note: "Design-specific technical gate; no implementation or runtime proof yet."
+  replay_choice_variation:
+    status: BLOCKED
+    note: "Design-specific technical gate; no implementation or runtime proof yet."
+  human_touch_art:
+    status: BLOCKED
+    note: "Design-specific technical gate; no implementation or runtime proof yet."
+
+registry_guard:
+  reused_first_project_registry_keys: 84
+  added_design_specific_keys: 7
+  expected_status_values: [ACTIVE, N/A, BLOCKED, PROVEN]
+  prohibition: "Never omit a conditional gateway, treat N/A as permanent, or upgrade PROVEN without evidence."
