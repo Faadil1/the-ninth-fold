@@ -1,0 +1,34 @@
+handover:
+  project: THE_NINTH_FOLD
+  repository: Faadil1/the-ninth-fold
+  date: "2026-10-09"
+  branch: feat/rive-fold-spike-01
+  state: PRE_CONCEPT_LOCK
+completed:
+  - "Second-entry six-model research performed in ONE FRAME LATE project; preferred conditional candidate THE NINTH FOLD."
+  - "Independent GitHub repository created by user and verified accessible with write permissions."
+  - "Separate independent PRD, gates, test plan and project state being bootstrapped on feature branch."
+not_completed:
+  - "Rive project scaffold or real RML."
+  - "Four real fold states; ViewModel selected mark; nested-to-outer consequence; reset."
+  - "CLI verification, Rive Editor interactive validation and target Web runtime."
+  - "Human craft, GPU Canvas, cold viewer comprehension, public artifact and final submission."
+decision:
+  selected_direction: THE_NINTH_FOLD
+  decision_scope: CONDITIONAL_TECHNICAL_SPIKE_ONLY
+  backup: LAST_IMPRESSION_LETTERPRESS_NOT_PHOTOGRAPHY
+  keep_one_frame_late_priority: true
+material_unknowns:
+  - "Can native Rive represent a convincing nested-paper fold without unsupported fake 3D?"
+  - "Can a user-bound colour/number mark persist exactly in a miniature?"
+  - "Can a gesture within the miniature physically change the outer fold and be replayed?"
+  - "Is there sufficient time for both real products to be polished and submitted?"
+do_not_do_yet:
+  - "Claim Concept Lock, live app or submission readiness."
+  - "Spend most of the remaining time on generic shaders or decorative scene without load-bearing nested behavior."
+  - "Publish or share a Rive file, post social media, or submit Contra without user checkpoint."
+  - "Overwrite the ONE FRAME LATE Rive file or merge changes across repositories."
+exact_next_gate: TECHNICAL_REALITY_KILL_SPIKE_01
+exact_next_owner: project_implementation
+exact_next_action: "In fresh Codespace on feat/rive-fold-spike-01, read project documents, run official Rive CLI scaffolding, implement and validate a real folding mechanic, selected mark and nested-to-outer action with reset; mark results accurately."
+promotion_condition: "Only evidence of playable scene in Editor and target Web plus comprehension may support later Concept Lock. One local compile is not enough."
