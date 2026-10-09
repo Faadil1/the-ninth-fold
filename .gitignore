@@ -1,0 +1,9 @@
+# Native Rive CLI local renders and logs
+rive/**/build/
+**/.DS_Store
+.env
+.env.*
+!.env.example
+node_modules/
+dist/
+.vscode/
