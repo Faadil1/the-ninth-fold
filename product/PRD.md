@@ -1,8 +1,10 @@
 # THE NINTH FOLD — Living Product Requirements Document
 
-**Status:** PROVISIONAL / PRE_CONCEPT_LOCK. **Project:** second independent Rive Halloween Challenge 2026 entry.
+**Status:** PROVISIONAL / PRE_CONCEPT_LOCK; FULL EXPERIENCE REOPENED 2026-10-10. **Project:** second independent Rive Halloween Challenge 2026 entry.
+
+> **Creative North Star (provisional):** [The Fortune That Folded You — complete experience blueprint](FULL-EXPERIENCE-REOPEN-2026-10-10.md). The previous three-act physical interaction sequence remains the central *mechanism spine*, not the entire game or Definition of Done. Where the earlier PRD treated four fold states and three interactions as sufficient, the 2026-10-10 experience blueprint supersedes that narrow interpretation. Concept Lock remains BLOCKED.
 **Deadline:** 2026-10-12 23:59 PDT, must recheck official rules at final gate.
-**First workstream:** TECHNICAL_REALITY_KILL_SPIKE_01 (90–180 minutes), not a Demo Definition of Done.
+**Current workstreams:** EXPERIENCE_DEPTH_REOPEN (ACTIVE) + TECHNICAL_REALITY_KILL_SPIKE_01 (ACTIVE but not started). The 90–180min kill spike is a component-level feasibility test, not a Demo Definition of Done or the entire implementation.
 
 ## Product opportunity and job to be done
 
@@ -27,7 +29,7 @@ Primary distinction from ONE FRAME LATE: impossible self-referential **paper top
 - Mouse and touch reachable target sizes, responsive 16:9 desktop and portrait mobile where supported.
 - Reduced-motion should preserve core meaning through readable state changes.
 
-## Three principal player actions (not eight forced clicks)
+## Three major narrative beats, surrounded by meaningful play (not three total clicks)
 
 ### Act 1: THE CHOICE / "What did you pick?"
 
@@ -53,7 +55,7 @@ Touch/pull/open the inner toy. It triggers a native State Machine transition to 
 
 ## MUST / SHOULD / MAY / MUST NOT
 
-**MUST:** genuine Rive State Machine and ViewModel binding for choices and nested input; four supported visible fold/pose states (closed, ordinary open, impossible open, nested control), negative case or clearly recoverable refusal, deterministic reset/replay, target runtime and independent viewer proof, source/evidence trace, separate Rive file/repo, actual final protected submission after consent.
+**MUST:** a cohesive authored desk/paper-theatre world, original expressive character (working name Pip), concrete objective, at least one interactive pop-up vignette, meaningful choices, two visibly distinct endings and replay; genuine Rive State Machine and ViewModel binding for choices and nested input; four supported visible fold/pose states (closed, ordinary open, impossible open, nested control), negative case or clearly recoverable refusal, deterministic reset/replay, target runtime and independent viewer proof, source/evidence trace, separate Rive file/repo, actual final protected submission after consent.
 
 **SHOULD:** hand-drawn paper folds, crayon/pencil typography, imperfect ink and torn edges, credible hinge/contact shadows, minified authored character, >=2 differentiated fortunes/marks, satisfying touch targets, GPU Canvas for load-bearing crease lighting/inside-occlusion if supported and time-justified, actual footage of human Rive authoring.
 
@@ -73,9 +75,13 @@ Touch/pull/open the inner toy. It triggers a native State Machine transition to 
 
 **90–180 min kill spike** (see separate spec). Pass only when (1) four obvious visible paper-fold states, (2) native player selected mark propagates to nested mark for >=two choices, (3) nested click moves outer fold, (4) reset works in local and Editor, then target web check. A verification command alone is insufficient. If any load-bearing mechanism cannot be made real before deadline, declare PARTIAL/BLOCKED and choose repair or cut/backup, not imaginary pass.
 
-## Post-spike maximum exploitation
+## Post-spike product depth: hard gate, not elective polish
 
-Do not stop at a minimal gate. After passing, replace test triangles with authored paper theatre, meaningful choices, expressive motion, clue/horror escalation, actual inner-to-outer dynamics, edge conditions, responsive controls and quality pass. Ensure independent judge could play from a cold link within seconds.
+The fully authored experience (see the linked North Star) has **ten mutually supporting layers**: World; Character; Purpose; Agency; Discovery; Interactive Motion; Material/GPU; Audio/Accessibility; Quality; and Evidence. **Technical Proof does not promote Product Depth.** The built scene needs a crafted desk/theatre identity, a responsive paper visitor, at least two real fortune choices with visibly different consequences, one playable micro-set, the nested-to-outer violation, an accessible negative/recovery path, two distinct endings, and a replay route. It cannot be a three-button illustration with the same result every time.
+
+A good release is a cohesive 90–150s primary experience with optional exploration, NOT a toy mechanism surrounded by arbitrary objects or a fabricated checklist of 15 rooms. Prioritize density of authored, reactive detail. If time threatens, cut superficial secondary locations before cutting the central experience's sense of place, stakes, agency and consequence.
+
+After proving the technical kill spike, continue the product exploitation loop into all supported cross-layer interactions: secondary props must respond to the selected fortune; character expressions need real Rive states; authored paper inertia and lighting should communicate stakes; both endings must visibly transform the environment; replay should yield a differentiated outcome. The judge must understand and enjoy the work cold in the target Web runtime, not only after reading the PRD.
 
 ## Evidence / delivery
 
@@ -87,4 +93,5 @@ A meaningful, authored, independently playable Halloween product with actual rul
 
 ## Version history
 
+- 2026-10-10 v0.2 FULL EXPERIENCE REOPENED; narrow technical-interaction-only definition rejected; world/story/character/agency/alternate endings elevated to release requirements, still not built.
 - 2026-10-09 v0.1 provisional / bootstrap; no Rive or web evidence.
