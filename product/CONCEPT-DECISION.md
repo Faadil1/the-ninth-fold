@@ -1,6 +1,12 @@
 # Concept decision — THE NINTH FOLD
 
-**2026-10-09 / CONDITIONAL candidate, NOT locked.**
+**2026-10-10 / CREATIVE EXPERIENCE REOPENED; CONDITIONAL candidate, NOT locked.**
+
+**New artistic direction for review:** [THE FORTUNE THAT FOLDED YOU — full experience](FULL-EXPERIENCE-REOPEN-2026-10-10.md). User explicitly rejected the narrow three-click/four-pose mechanism as an adequate challenge-worthy product.
+
+**Disallowed implicit promotion:** proving fold topology and selected-mark dataflow does not justify Concept Lock, Build Candidate, Experience Completeness or Submission Ready. The product must have actual world, character, purpose, discovery, agency, failure/recovery, consequence and two distinct endings, hand-authored in Rive.
+
+**Creative proposition (UNLOCKED):** haunted school desk + tactile living fortune-teller + cutout visitor Pip + choice-dependent miniature diorama(s) + ninth nested fold that manipulates the outside + release/seal endings. This is a leading design proposal, not a canonically frozen setting or an implemented asset. Rival entries demonstrate real environments, custom character craft and multi-step play; mere technology does not score enough on creativity/Human Touch.
 
 Source: [six-model synthesis](https://github.com/Faadil1/one-frame-late/blob/feat/technical-reality-spike-01/product/SECOND-ENTRY-SIX-MODEL-SYNTHESIS-2026-10-09.md).
 
@@ -21,6 +27,12 @@ The selected mark must not be a prerecorded universal image; it must be bound to
 ## Alternative
 
 **LAST IMPRESSION** — *letterpress printing press*, explicitly not the photographic/darkroom proposals; only if the paper-fold technical spike fails and the letterpress can be built/presented before deadline.
+
+## Reopen decision rule
+
+Evaluate the **whole work**, not just the fold: (a) visual/editorial artistic identity, (b) a protagonist's motive with player consequence, (c) connected stage/world reactions to choice, (d) earned horror climax, (e) alternative ending/replay, (f) Rive-native artistic implementation and Web performance, (g) 5-second comprehension from a stranger.
+
+The 90–180min fold kill spike is necessary to avoid waste but explicitly not sufficient for promotion. Before final lock, test whether the proposed setting and characters feel sufficiently differentiated from Halloween Hotel, DOMOVOI, Trick or Room and paper-village Night Post, rather than imitating their feature count. Keep the option to change the setting if concept review disproves it.
 
 ## Decision gates
 
