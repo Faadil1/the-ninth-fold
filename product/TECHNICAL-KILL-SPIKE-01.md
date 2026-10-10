@@ -2,6 +2,8 @@
 
 **Budget:** 90–180 minutes of *actual focused coding/tooling*, not a promise that the task has run. **Status:** NOT_STARTED. **Source of truth:** `state/CURRENT.yaml`.
 
+**Important corrected scope:** The user explicitly rejected the mechanic-only toy as a competition product. This spike is the **first technical falsification** of `product/FULL-EXPERIENCE-REOPEN-2026-10-10.md`, not a full-experience plan or a quality target. A green spike MUST be followed by substantive world/character/story/choices/endings/playability implementation before any Build Candidate claims. No separate "mechanics done -> ship" shortcut.
+
 **Question:** Can we deliver an actual Rive State Machine interactive paper fortune teller with an impossible ninth fold, real selected-mark data binding, miniature action affecting outer geometry, and reset? Technical Reality precedes Concept Lock.
 
 ## Subtests and visual exit criteria
