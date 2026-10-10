@@ -227,8 +227,39 @@ registry:
     status: BLOCKED
     note: "Design-specific technical gate; no implementation or runtime proof yet."
 
+  experience_world_art_direction:
+    status: ACTIVE
+    note: "2026-10-10 complete experience proposal documented; original crafted desk paper theatre NOT BUILT or visually cleared."
+  authored_character_emotional_expression:
+    status: BLOCKED
+    note: "Original Pip character rig, reactive expressions and human-authored art not implemented."
+  authored_stage_vignettes:
+    status: BLOCKED
+    note: "Playable Bell/Window fold dioramas and branch-specific props not implemented."
+  meaningful_player_goal_and_stakes:
+    status: ACTIVE
+    note: "Proposed rescue/seal objective; not independently validated or implemented."
+  choice_to_world_consequence:
+    status: BLOCKED
+    note: "Selected fortune must affect actual room/character and ending beyond nested mark; not implemented."
+  secondary_interactive_discovery:
+    status: BLOCKED
+    note: "Inspectables, diegetic hints and environmental response not implemented."
+  distinct_final_outcomes_and_replay:
+    status: BLOCKED
+    note: "Release/Seal endings, recovery and differentiated replay not implemented."
+  cohesive_art_material_motion:
+    status: BLOCKED
+    note: "Authentic asymmetrical paper, hinges, detailed motion, contact shadows and sound not authored."
+  full_experience_comprehension:
+    status: BLOCKED
+    note: "Cold viewer must understand world, protagonist, player role and impossible ninth action, not only fold gimmick."
+  full_product_depth_acceptance:
+    status: BLOCKED
+    note: "Technical kill-spike alone never promotes concept lock, deliver, submission ready or production. See FULL-EXPERIENCE-REOPEN-2026-10-10.md."
+
 registry_guard:
   reused_first_project_registry_keys: 84
-  added_design_specific_keys: 7
+  added_design_specific_keys: 17
   expected_status_values: [ACTIVE, N/A, BLOCKED, PROVEN]
   prohibition: "Never omit a conditional gateway, treat N/A as permanent, or upgrade PROVEN without evidence."
