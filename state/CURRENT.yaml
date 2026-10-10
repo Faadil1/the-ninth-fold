@@ -1,0 +1,87 @@
+project:
+  name: THE_NINTH_FOLD
+  repository: Faadil1/the-ninth-fold
+  source_of_truth: GITHUB
+  default_branch: main
+  work_branch: feat/rive-fold-spike-01
+  project_type: JUDGED_CREATIVE_CHALLENGE
+  independent_entry_from: Faadil1/one-frame-late
+  external_deadline: "2026-10-12T23:59:00-07:00"
+canonical_pin:
+  central_repository: Faadil1/faadil-agent-system
+  version: 0.1.59-adaptive-best-of-system-execution-v1-promoted
+  observed_main_sha: ec662e0dd35b4fec7e5c38b397a60c68973bd14b
+  snapshot_date: "2026-10-09"
+  note: "Pinned observed central current baseline before THE_NINTH_FOLD bootstrap; check drift at material promotions."
+status:
+  project_state: PRE_CONCEPT_LOCK
+  direction: THE_NINTH_FOLD
+  direction_status: CONDITIONAL_TOP_CANDIDATE__EXPERIENCE_REOPEN_ACTIVE
+  concept_lock: BLOCKED
+  build_candidate_ready: false
+  live: false
+  editor_behavior_proven: false
+  target_web_runtime_proven: false
+  submission_ready: false
+  submission_state: NOT_STARTED
+lifecycle:
+  macro: DESIGN
+  current_owner: project_implementation
+  workstream: FULL_EXPERIENCE_REOPEN_AND_TECHNICAL_REALITY_KILL_SPIKE_01
+  additional_product_depth_obligation: WORLD_CHARACTER_AGENCY_DISCOVERY_TWO_ENDINGS
+  execution_budget_minutes: "90-180"
+  priority: SECOND_TO_ONE_FRAME_LATE
+research:
+  six_model_central_synthesis: PROVEN_AS_RESEARCH_INPUT
+  reviewers: [GPT, Claude, Gemini, Grok, Kimi, Perplexity]
+  auxiliary: DeepSeek
+  synthesis_source: "https://github.com/Faadil1/one-frame-late/blob/feat/technical-reality-spike-01/product/SECOND-ENTRY-SIX-MODEL-SYNTHESIS-2026-10-09.md"
+  competitive_clearance: INITIAL_LIMITED
+  exact_ninth_fold_collision: NOT_ESTABLISHED
+technical_reality:
+  rive_project_scaffold: NOT_STARTED
+  rive_cli_local_verify: NOT_RUN
+  editor_file: NOT_CREATED
+  selected_mark_binding: NOT_TESTED
+  four_fold_policies: NOT_TESTED
+  nested_to_outer_causality: NOT_TESTED
+  reset_and_replay: NOT_TESTED
+  gpu_canvas: NOT_IMPLEMENTED
+  target_browser_runtime: NOT_TESTED
+  cold_viewer: NOT_TESTED
+creative_product_depth:
+  definition: "Whole authored interactive paper theatre, not a 3-click/four-fold technical spike"
+  proposed_artistic_direction: THE_FORTUNE_THAT_FOLDED_YOU
+  direction_source: product/FULL-EXPERIENCE-REOPEN-2026-10-10.md
+  creative_lock: BLOCKED_PENDING_REVIEW
+  environment_art: NOT_IMPLEMENTED
+  pip_original_character_rig: NOT_IMPLEMENTED
+  meaningful_choice_variation: NOT_IMPLEMENTED
+  interactive_paper_vignette: NOT_IMPLEMENTED
+  ninth_nested_physical_twist: NOT_IMPLEMENTED
+  alternative_ending_release_seal: NOT_IMPLEMENTED
+  secondary_discovery: NOT_IMPLEMENTED
+  live_product_depth: NOT_PROVEN
+truth_boundary:
+  observed:
+    - "User created a separate GitHub repository Faadil1/the-ninth-fold."
+    - "Prior six-model research independently selects the ninth fold as conditional candidate."
+    - "Rive CLI 1.5.1 works in the separate ONE FRAME LATE Codespace, not yet this repository."
+  inferred:
+    - "A convincing 2.5D fold might express the paradox without actual 3D geometry."
+    - "Three player-caused beats could outperform a long onboarding for judges."
+  unknown:
+    - "Can supported Rive CLI/RML produce four convincing fold states with connected transitions?"
+    - "Can choices propagate to inner mark through real ViewModel/Data Binding?"
+    - "Will Rive Editor and target Web preserve nested-to-outer consequences?"
+    - "Can art quality and competition submission both projects reach standard before deadline?"
+    - "Does proposed complete artistic world meaningfully differ from competitors and delight cold users?"
+    - "Can an authored interactive desk, character, vignette and two endings be finished with Web parity before the deadline?"
+protected_actions:
+  - public_rive_share_or_publish
+  - final_contra_submission
+  - required_public_social_post
+  - paid_upgrade
+exact_next_gate: TECHNICAL_REALITY_FOLD_MARK_AND_NESTED_CAUSALITY
+exact_next_action: "Reopened creative North Star: assess product/FULL-EXPERIENCE-REOPEN-2026-10-10.md, then implement one beautifully composed playable paper-theatre scene alongside the bounded native Rive fold/choice/nested-control kill spike. Do not stop at four poses. Editor then target Web, cold viewer and artistic depth remain blocked until proven."
+last_updated: "2026-10-10"

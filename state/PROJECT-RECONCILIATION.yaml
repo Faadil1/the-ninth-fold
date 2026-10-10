@@ -1,0 +1,33 @@
+project_reconciliation:
+  project: THE_NINTH_FOLD
+  project_type: JUDGED_CREATIVE_CHALLENGE
+  independent_project: true
+  external_deadline: "2026-10-12T23:59:00-07:00"
+  central_system:
+    repository: Faadil1/faadil-agent-system
+    observed_current_version: 0.1.59-adaptive-best-of-system-execution-v1-promoted
+    observed_main_sha: ec662e0dd35b4fec7e5c38b397a60c68973bd14b
+    status: PINNED_AT_BOOTSTRAP_CHECK_AGAIN_BEFORE_PROMOTION
+  independent_source:
+    original_research_repository: Faadil1/one-frame-late
+    synthesis_path: product/SECOND-ENTRY-SIX-MODEL-SYNTHESIS-2026-10-09.md
+    first_project_rive_file_id: 2632594
+    protected_no_cross_project_edits: true
+  source_truth:
+    repository: Faadil1/the-ninth-fold
+    main_bootstrap_commit: 59d33c8d5c3b326123903e7339dfecba31d9db92
+    work_branch: feat/rive-fold-spike-01
+    independent_editor_file_created: false
+    runtime_evidence_before_bootstrap: NONE
+  prelock:
+    six_model_research: PROVEN_AS_PRIOR_RESEARCH
+    competitive_novelty: LIMITED_RESEARCH_ACTIVE
+    selected_direction: THE_NINTH_FOLD_CONDITIONAL
+    concept_lock: BLOCKED_BY_TECHNICAL_REALITY_AND_VIEWER_COMPREHENSION
+  human_protected_actions:
+    - public_rive_publish_or_share
+    - public_social_post
+    - final_contra_submission
+    - paid_plan_change
+  exact_next_gate: TECHNICAL_REALITY_KILL_SPIKE_01
+  blocked_claims: [CONCEPT_LOCKED, BUILD_CANDIDATE, LIVE, SUBMISSION_READY, SUBMITTED]
